@@ -61,6 +61,67 @@ hold H key->select area (bird's view)
 00:50  
 ctrl+click , select layer
 
+
+###13 Copying, creating, and merging layers
+s c n -> new layer  
+03:40
+s c a e -> generate and copy to a new layer
+
+
+###14 Changing layer opacity
+0% opacity: press 00  
+100% opacity press 0
+20% press 2
+25% press 25
+
+
+
+###15 Copying and pasting layer styles
+
+
+###16 Reapplying filters
+filter->lense correction (s c r)  
+choose `custom` tab, change vignette  
+
+ctrl f ->apply to another image
+
+
+###17 Using specific filter commands
+s c a A -> adaptive wide angle
+s c A ->camera raw
+
+
+###18 Resetting dialog boxes instantly
+ctrl m -> curves dialog  
+
+02:00  
+alt+ click cancel(reset)  ->reset to normal
+
+
+
+###19 Using the scrubby sliders
+s c u -> desaturate  
+
+01:15  
+click attr(opacity), drag left/right
+
+
+
+
+###20 Adding keyboard shortcuts to adjustment layers
+image->adjustments->Channel mixer
+
+
+###21 Modifying adjustment layers by hand
+
+ctrl m -> curve dialog
+
+###22 Applying blend modes to multiple layers
+select 2 layers,  
+shift +  ->switch diff blend mode
+
+
+
 ###23 Applying blend modes with your keyboard
 s a n->normal blend mode
 s a i->dissolve  
