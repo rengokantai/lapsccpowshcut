@@ -143,3 +143,30 @@ alt backspace-> fill color
 a c i ->image size  
 a c c ->canvas size  
 
+
+##2. Type Shortcuts
+###1 Applying type changes quickly
+c enter -> apply change
+###2 Changing paragraph justification
+s c l  
+s c r  
+s c c  
+
+###3 Spacing and sizing shortcuts
+alt rightarrow -> leading
+alt uparrow ->kerning
+
+##3. Brush and Tool Shortcuts
+###1 Changing brush size, flow, and opacity
+] -> grow brush size  
+shift [ ->reduce hardness  
+change opacity: 5 ->50%
+change flow: shift 5 ->50%
+
+###2 Changing brushes on the fly
+. ->next brush
+, ->previous
+shift . ->next line
+
+###3 Drawing straight lines
+shift click
